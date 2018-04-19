@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Grind</string>
+    <string-array name="list">
+        <item>uno</item>
+        <item>dos</item>
+        <item>tres</item>
+    </string-array>
+</resources>
