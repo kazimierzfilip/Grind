@@ -1,8 +1,40 @@
 <resources>
     <string name="app_name">Grind</string>
-    <string-array name="list">
-        <item>uno</item>
-        <item>dos</item>
-        <item>tres</item>
+    <string-array name="list1">
+        <item>Cytat motywacyjny</item>
+        <item>Filmik motywacyjny</item>
+        <item>Wstajesz</item>
+        <item>Wypij trochę wody</item>
+        <item>Woda na len</item>
+        <item>Siku, twarz, zęby 3min</item>
+        <item>Len</item>
+        <item>Podcast</item>
+        <item>Pościel łóżko</item>
+        <item>Strój ćwiczeniowy</item>
+        <item>Muzyka relaksująca</item>
+        <item>Rozciąganie</item>
+        <item>Muzyka pobudzająca</item>
+        <item>Ćwiczenia</item>
+        <item>Wypij wody</item>
+        <item>Medytacja</item>
+        <item>Zacznij śniadanie</item>
+        <item>Posłuchaj 2 TEDy</item>
+        <item>Zęby 3 min</item>
+        <item>Napełnij butelkę wodą</item>
+    </string-array>
+    <string-array name="list2">
+        <item>Porządek w pokoju i na biurku</item>
+        <item>Spakowanie na uczelnie</item>
+        <item>Do kuchni brudne naczynia i butelka</item>
+        <item>Umyj naczynia</item>
+        <item>Nalej wody do szklanki</item>
+        <item>Butelkę wytrzyj i do pokoju</item>
+        <item>Szklanka i butelka na biurko</item>
+        <item>Ubrania na jutro</item>
+        <item>Wieszaki na drzwi</item>
+        <item>Mycie + zęby 3 min</item>
+        <item>Medytacja</item>
+        <item>20 min audiobook</item>
+        <item>Spać</item>
     </string-array>
 </resources>
